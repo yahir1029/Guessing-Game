@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    border:2px black solid;
+}
+
+p{
+    text-align:center;
+    font-size: 40px;
+}
+
+
+.button{
+    text-align:center;
+    margin:0 auto;
+
+}
+
+
+.text-container{
+    display:flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}   
+
+
+
+
+.text-conatiner{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+
+}
+
+
+
+body{
+    background-color:antiquewhite
+}
+
+
+
+
+
+
+
+
+
+
+
+
